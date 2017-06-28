@@ -229,5 +229,5 @@ exports.filterCompany = function (arrJsonData, strCompany) {
 }
 
 exports.getUrlServerDB = function () {
-  return 'http://localhost:3000/'
+  return 'http://localhost:80/'
 }
